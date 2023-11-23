@@ -13,10 +13,5 @@
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=justDarian&limit=69&theme=dark&combine_all_yearly_contributions=true)
 
-## Things About Me
-- I'm ontop of Zeakify
-- I know Javascript, Python, and Lua
-
 ---
-you have reached the end of my README! <br>
-congrats! :trollface:
+you have reached the end of my README, good job?
