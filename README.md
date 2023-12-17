@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=justDarian)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=im+the+darian;i+exist;https%3A%2F%2Fdiscord.gg%2Fhaxx)](https://git.io/typing-svg)
-## Socials/Contacts
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/haxx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@justdarian) 
 <br>
 ![Discord Profile](https://discord.c99.nl/widget/theme-2/1055188030442459195.png)
 
