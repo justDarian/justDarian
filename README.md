@@ -6,12 +6,5 @@
 <br>
 ![Discord Profile](https://discord.c99.nl/widget/theme-2/1055188030442459195.png)
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=justDarian&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=justDarian&theme=midnight-purple&hide_border=true)<br/>
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=justDarian&limit=69&theme=dark&combine_all_yearly_contributions=true)
-
----
-you have reached the end of my README, good job?
