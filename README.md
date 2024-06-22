@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=justDarian)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=im+the+darian;js+lua+python;https://dariandev.com/)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=js+lua+python;https://dariandev.com/;im+darian;sigma!)](https://git.io/typing-svg)
 <br>
 ![Discord Profile](https://discord.c99.nl/widget/theme-2/1055188030442459195.png)
 
