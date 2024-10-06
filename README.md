@@ -1,4 +1,4 @@
-# hey, i'm darian 😎
+# hey, i'm darian!?
 [my website](https://dariandev.com)
 
 ## about me:
@@ -6,12 +6,12 @@
 - cybersecurity, messed with a bunch of sites and games (**ethically**)
 - learning cpp, working on game cheats
 
-## languages (pro to meh)
+## languages
 - javascript (very pro)
 - node (very pro)
-- python good)
+- python (good)
 - luau (meh)
 
-**9 public repos**, i do stuff sometimes
+**11 total repos, contributed to 29** - i do stuff sometimes
 
 ![](https://komarev.com/ghpvc/?username=justDarian)
