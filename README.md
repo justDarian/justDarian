@@ -12,6 +12,6 @@
 - python (good)
 - luau (meh)
 
-**11 total repos, contributed to 29** - i do stuff sometimes
+**14 total repos, contributed to 31** (public and private) - i do stuff sometimes
 
 ![](https://komarev.com/ghpvc/?username=justDarian)
