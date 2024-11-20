@@ -2,7 +2,7 @@
 [my website](https://dariandev.com)
 
 ## about me:
-- i'm darian, 13, and i do silly stuff
+- i'm darian, 14, and i do silly stuff
 - cybersecurity, messed with a bunch of sites and games (**ethically**)
 - learning cpp, working on game cheats
 
