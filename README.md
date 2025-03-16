@@ -1,7 +1,7 @@
 # hey, i'm darian!?
 [my website](https://dariandev.com)
 <br>
-*this is my ONLY Github account*
+*this is my ONLY Github account, any other account is NOT me*
 
 ## about me:
 - i'm darian, and i do silly stuff
