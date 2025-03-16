@@ -1,5 +1,7 @@
 # hey, i'm darian!?
 [my website](https://dariandev.com)
+<br>
+*this is my ONLY Github account*
 
 ## about me:
 - i'm darian, and i do silly stuff
@@ -12,6 +14,6 @@
 - python (good)
 - luau (meh)
 
-**14 total repos, contributed to 31** (public and private) - i do stuff sometimes
+**24 total repos** (public and private) - i do stuff sometimes
 
 ![](https://komarev.com/ghpvc/?username=justDarian)
