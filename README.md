@@ -1,19 +1,16 @@
 # hey, i'm darian!?
 [my website](https://dariandev.com)
 <br>
-*this is my ONLY Github account, any other account is NOT me*
+*this is NOT ONLY Github account, [other account](https://github.com/darianOnTOP)*
 
 ## about me:
-- i'm darian, and i do silly stuff
-- cybersecurity, messed with a bunch of sites and games (**ethically**)
-- learning cpp, working on game cheats
+- i'm darian, and i do retarted stuff
+- cybersecurity, messed with a bunch of sites and games (**i suck at everything i do!!!**)
+- learning cpp(i cant), working on game cheats(they dont work and are malware that will brick your pc!!)
 
 ## languages
-- javascript (very pro)
-- node (very pro)
-- python (good)
-- luau (meh)
+- jew
 
-**24 total repos** (public and private) - i do stuff sometimes
+**0 total repos** (public and private) - i do nothing
 
-![](https://komarev.com/ghpvc/?username=justDarian)
+![](https://komarev.com/ghpvc/?username=gfuyguidfygufdygfduigyfdiugyfdbbchekf)
