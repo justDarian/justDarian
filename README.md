@@ -1,7 +1,7 @@
 # hey, i'm darian!?
 [my website](https://dariandev.com)
 <br>
-*this is NOT ONLY Github account, [other account](https://github.com/darianOnTOP)*
+*this is NOT MY ONLY Github account, [other account](https://github.com/darianOnTOP)*
 
 ## about me:
 - i'm darian, and i do retarted stuff
